@@ -1,4 +1,4 @@
-HAI 1.2
+HAI 1.4
 OBTW 
 Projekt na Systrmy Operacyjne
 Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
