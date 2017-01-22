@@ -1,5 +1,5 @@
 HAI
-OBTW 
+OBTW  
 Projekt na Systrmy Operacyjne
 Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
 Zalozeniem projektu jest zaprogramowanie kalkulatora w LOLCODE który będzie obsługiwał podstawowe operacje matematyczne oraz umieszczenia go wraz z dokumentacja na githubie
