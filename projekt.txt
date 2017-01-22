@@ -5,7 +5,7 @@ Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
 Zalozeniem projektu jest zaprogramowanie kalkulatora w LOLCODE który będzie obsługiwał podstawowe operacje matematyczne oraz umieszczenia go wraz z dokumentacja na githubie
 TLDR
 
-HOW IZ I KALKULUJE 
+HOW DUZ I KALKULUJE 
 BTW ONE ORAZ TWO TO ZMIENNE SURGERY WYBIERA RODZAJ WYKONYWANEJ OPERACJI
 
 I HAS A ONE
