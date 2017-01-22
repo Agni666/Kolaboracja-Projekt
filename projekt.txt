@@ -1,4 +1,7 @@
 HAI 1.2
-BTW Projekt na Systrmy Operacyjne
-BTW Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
+OBTW 
+Projekt na Systrmy Operacyjne
+Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
+Zalozeniem projektu jest zaprogramowanie kalkulatora w LOLCODE i umieszczenia go wraz z dokumentacja na githubie
+TLDR
 KTHXBYE
