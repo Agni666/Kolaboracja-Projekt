@@ -1,2 +1,2 @@
-# Kolaboracja-Projekt
+# Kolaboracja-Projekt..
 Projekt na zaliczenie.
