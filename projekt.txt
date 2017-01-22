@@ -49,11 +49,11 @@ IF U SAY SO
 
 IM IN YR LOOP
     VISIBLE "Tis iz kalklator"
-    VISIBLE Kalkuluje
-    VISIBLE "Do u want again (TAK/NIE)?"
+    VISIBLE KALKULUJE
+    VISIBLE "Do u want again (YUP/WHATEVERUWANT)?"
     I HAS A ANSVR
     GIMMEH ANSVR
-    BOTH SAEM ANSVR AN "TAK", O RLY? 
+    BOTH SAEM ANSVR AN "YUP", O RLY? 
     YA RLY
         VISIBLE "K"
     NO WAI
