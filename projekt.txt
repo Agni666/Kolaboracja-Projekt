@@ -5,8 +5,18 @@ Ten projekt jest kolaboracja pomiedzy Grzegorzem Klauza i Henrykiem Zulinskim
 Zalozeniem projektu jest zaprogramowanie kalkulatora w LOLCODE który będzie obsługiwał podstawowe operacje matematyczne oraz umieszczenia go wraz z dokumentacja na githubie
 TLDR
 
-HOW IZ I Kalkuluje (YR [argument1] (AN YR [argument2] (AN YR [argument3] ...))) 
-[code block] 
+HOW IZ I KALKULUJE 
+BTW ONE ORAZ TWO TO ZMIENNE SURGERY WYBIERA RODZAJ WYKONYWANEJ OPERACJI
+I HAS A ONE
+I HAS A TWO
+I HAS A SURGERY
+VISIBLE "GIMME 1ST VARIABLE "
+GIMMEH ONE
+VISIBLE "AND THE NEXT 1 "
+GIMMEH TWO
+VISIBLE "WTF U WANT 2 DO "
+GIMMEH SURGERY
+FOUND YR "MECH I DONT WANT TO DO THIS!"
 IF U SAY SO
 
 KTHXBYE
