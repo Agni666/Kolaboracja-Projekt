@@ -1,3 +1,4 @@
 1) W funkcji warunkowej RLY nie można używać funkcji (kod się zawiesza niezależnie od tego jakiego RLY damy oraz niezależnie od wywoływanej funkcji)
 2) W języku przerwania pętli i innych struktur nie działają (GTFA, ENUF)
 3) Nie działa odczytywanie z pliku
+4) Funkcje ciągną argumenty w kolejności LIFO a nie tak jak w większości popularnych języków FIFO (ostatni podany element jest pierwszym elementem pobieranym do funkcji)
